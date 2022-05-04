@@ -1,0 +1,11 @@
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\bin\Debug\IMC.exe.config
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\bin\Debug\IMC.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\bin\Debug\IMC.pdb
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.csproj.AssemblyReference.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.csproj.SuggestedBindingRedirects.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.Form1.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.Properties.Resources.resources
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.csproj.GenerateResource.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.csproj.CoreCompileInputs.cache
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.exe
+C:\Users\rodri\Documents\CastGroup\Aula 01 - Visual Studio\CSharpIntermediario\CSharp-Intermediario\IMC\obj\Debug\IMC.pdb
